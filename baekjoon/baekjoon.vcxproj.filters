@@ -45,5 +45,17 @@
     <ClCompile Include="Part1-10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Part1-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Part1-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Part1-13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Part1-14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

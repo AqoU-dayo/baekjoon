@@ -13,82 +13,142 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Part1">
+      <UniqueIdentifier>{c593123c-448c-4e69-bfb4-f0cd56d8afba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part2">
+      <UniqueIdentifier>{08f6db9c-5ae4-45c3-9efb-47c6bd742dab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part3">
+      <UniqueIdentifier>{80913ae2-690d-4cf8-a339-10436034c182}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part4">
+      <UniqueIdentifier>{ed204153-ddab-4549-af2c-041aa85ab66d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part5">
+      <UniqueIdentifier>{77f6b739-c5bb-4194-8b5b-8e76c5220cf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part6">
+      <UniqueIdentifier>{b192dfe5-e641-4beb-983b-ebb2456a3816}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Part1-1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Part1-3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Part1-4.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
+    <ClCompile Include="Part1-3.c">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
+    <ClCompile Include="Part1-4.c">
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-5.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-6.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-7.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-8.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-9.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-10.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-11.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-12.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-13.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1-14.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part2-1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part2</Filter>
     </ClCompile>
     <ClCompile Include="Part2-2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part2</Filter>
     </ClCompile>
     <ClCompile Include="Part2-3.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part2</Filter>
     </ClCompile>
     <ClCompile Include="Part2-4.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part2</Filter>
     </ClCompile>
     <ClCompile Include="Part2-5.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part2</Filter>
     </ClCompile>
     <ClCompile Include="Part2-6.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part2</Filter>
     </ClCompile>
     <ClCompile Include="Part2-7.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Part5-3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Part6-1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part2</Filter>
     </ClCompile>
     <ClCompile Include="Part3-1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-2.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-3.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-4.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-5.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-6.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-7.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-8.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-9.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-10.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-11.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-12.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-13.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part3-14.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="Part5-3.c">
+      <Filter>소스 파일\Part5</Filter>
+    </ClCompile>
+    <ClCompile Include="Part6-1.c">
+      <Filter>소스 파일\Part6</Filter>
     </ClCompile>
     <ClCompile Include="Part6-2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part6</Filter>
+    </ClCompile>
+    <ClCompile Include="Part6-3.c">
+      <Filter>소스 파일\Part6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

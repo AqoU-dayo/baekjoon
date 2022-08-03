@@ -5,10 +5,10 @@ int main(void)
 {
 	int num;
 	scanf("%d", &num);
-
-	for (int i = 1; i <= 9; i++)
+	for (int i = num; i >= 1; i--)
 	{
-		printf("%d * %d = %d\n", num, i, num * i);
+		printf("%d\n", i);
 	}
+
 	return 0;
 }
